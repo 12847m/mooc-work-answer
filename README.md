@@ -1,4 +1,4 @@
-# mooc-work-answer
+# mooc-work-answe
 
 [![stars](https://img.shields.io/github/stars/11273/mooc-work-answer)](https://github.com/11273/mooc-work-answer)
 [![forks](https://img.shields.io/github/forks/11273/mooc-work-answer)](https://github.com/11273/mooc-work-answer)
@@ -10,7 +10,7 @@
 
 - **智慧职教 【考试+测验+作业+刷课】**
 
-- **仅适用于: <https://mooc.icve.com.cn/>**
+- **仅适用于: <https://mooc.icve.com.c>**
 
 - **详细刷课技术参考** [技术篇](https://www.52pojie.cn/thread-1338063-1-1.html)
 
